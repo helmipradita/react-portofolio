@@ -60,7 +60,7 @@ export default function Home() {
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-gray-200">
               Freelancer providing services for programming and design content
-              needs. Join me down below and let's get cracking!
+              needs. Join me down below and lets get cracking!
             </p>
           </div>
 
@@ -88,7 +88,7 @@ export default function Home() {
             <h3 className="text-3xl py-1 dark:text-white">Services I offer</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Since the beginning of my journey as a freelance web developer.
-              I've done remote work
+              Ive done remote work
               <span className="text-teal-500"> agencies </span>
               and collaborated with talented people to create digital products
               for both business and consumer use.
@@ -148,7 +148,7 @@ export default function Home() {
             <h3 className="text-3xl py-1 dark:text-white">Portofolio</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Since the beginning of my journey as a freelance web developer.
-              I've done remote work
+              Ive done remote work
               <span className="text-teal-500"> agencies </span>
               and collaborated with talented people to create digital products
               for both business and consumer use.
